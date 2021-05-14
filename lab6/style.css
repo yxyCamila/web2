@@ -1,0 +1,35 @@
+body{
+    background-color: #000;
+}
+
+table{
+    width: 760px;
+    font-size: 12px;
+    background-color: #fff;
+
+}
+
+.title{
+    font-size: 14px;
+    text-align: center;
+    background: url(./images/leftbg.jpg);
+}
+
+li{
+    list-style: none;
+}
+
+a { text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {color:#ba2636;text-decoration:underline;}
+a:active {color:#ba2636;} 
+
+p{
+    text-indent: 2em;
+    padding: 10px;
+}
+
+.main h3{
+    font-weight: bold;
+    text-align: center;
+}
